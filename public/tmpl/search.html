@@ -1,0 +1,10 @@
+<div>
+	<form>
+		<div class="input-group">
+			<input class="form-control" type="text" ng-model="$ctrl.query" required ng-disabled="!$ctrl.enable">
+		    <div class="input-group-btn">
+				<button class="btn btn-default" ng-disabled="!$ctrl.enable" ng-click=$ctrl.search() >Search</button>
+			</div>
+		</div>
+	</form>
+</div>

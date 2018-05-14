@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/angular.js": "/angular.js",
+    "/tmpl/categoryList.html": "/tmpl/categoryList.html",
+    "/tmpl/joke.html": "/tmpl/joke.html",
+    "/tmpl/search.html": "/tmpl/search.html",
+    "/img/ChuckNorris.jpg": "/img/ChuckNorris.jpg"
+}

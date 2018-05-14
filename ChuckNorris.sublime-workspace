@@ -1,0 +1,865 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pas",
+				"password"
+			],
+			[
+				"Data",
+				"database"
+			],
+			[
+				"dry",
+				"dry_run"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"pr",
+				"print_r"
+			],
+			[
+				"data",
+				"databaseName"
+			],
+			[
+				"ta",
+				"tableCreatedOrUpdated"
+			],
+			[
+				"SQL",
+				"SQL_ERROR_EXIT"
+			],
+			[
+				"printS",
+				"printSuccess"
+			],
+			[
+				"al",
+				"alterTable"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"TA",
+				"TABLE_NAME"
+			],
+			[
+				"con",
+				"Connection"
+			],
+			[
+				"sql",
+				"sqlConnection"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"dr",
+				"dry_run"
+			],
+			[
+				"e",
+				"errorMsg"
+			],
+			[
+				"em",
+				"emailIndex"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"name",
+				"nameIndex"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"for",
+				"formatData"
+			],
+			[
+				"c",
+				"columnName"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"er",
+				"errorMsg"
+			],
+			[
+				"u",
+				"user_upload"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"create_",
+				"create_table"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"new",
+				"newHeight"
+			],
+			[
+				"clie",
+				"clientWidth"
+			],
+			[
+				"la",
+				"layoutWidth"
+			],
+			[
+				"cli",
+				"clientWidthSum"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"or",
+				"orientation"
+			],
+			[
+				"cl",
+				"clientHeight"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"clien",
+				"clientWidth"
+			],
+			[
+				"wei",
+				"weight"
+			],
+			[
+				"ma",
+				"marginTop"
+			],
+			[
+				"js",
+				"jsAttr"
+			],
+			[
+				"attri",
+				"attribute"
+			],
+			[
+				"mus",
+				"mustacheEngine"
+			],
+			[
+				"line",
+				"linearLayout"
+			],
+			[
+				"wu",
+				"weightSum"
+			],
+			[
+				"getWei",
+				"getWeightSum"
+			],
+			[
+				"__",
+				"__toString"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"heigh",
+				"heightSum"
+			],
+			[
+				"at",
+				"attrInherited"
+			],
+			[
+				"fo",
+				"fontSize"
+			],
+			[
+				"wh",
+				"widthSum"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"body",
+				"bodyWidth"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"Ab",
+				"AbstractLayout"
+			],
+			[
+				"A",
+				"AbstractLayout"
+			],
+			[
+				"att",
+				"Attributes"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"xml",
+				"xmlFileName"
+			],
+			[
+				"getWi",
+				"getWidthSum"
+			],
+			[
+				"p",
+				"positions"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"t",
+				"transtation"
+			],
+			[
+				"tra",
+				"transtation"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"pat",
+				"path"
+			],
+			[
+				"pritn",
+				"print_r"
+			],
+			[
+				"sig",
+				"SignUpCtrl"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"imp",
+				"implements"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"_",
+				"__toString"
+			],
+			[
+				"getW",
+				"getWidth"
+			],
+			[
+				"getLi",
+				"getLightColor"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"a",
+				"annotations"
+			],
+			[
+				"cla",
+				"classAnnotations"
+			],
+			[
+				"form",
+				"forms"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"linear",
+				"linearLayout"
+			],
+			[
+				"li",
+				"linearChildren"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"witdh",
+				"width"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"en",
+				"encoding"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"crea",
+				"createImage"
+			],
+			[
+				"imagejp",
+				"imagejpeg"
+			],
+			[
+				"jp",
+				"jpeg"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"ske",
+				"skeleton"
+			],
+			[
+				"layou",
+				"LayoutDirectory"
+			],
+			[
+				"pa",
+				"pageDirectory"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"re",
+				"regex"
+			],
+			[
+				"par",
+				"parameter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 172.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Set Syntax: Git Log"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Y/ChuckNorris"
+	],
+	"file_history":
+	[
+		"/Y/userUpload/user_upload.php",
+		"/Y/userUpload/README.md",
+		"/Y/userUpload/csvForTest/wrongHeader1.csv",
+		"/Y/userUpload/csvForTest/moreData.csv",
+		"/Y/userUpload/test.sh",
+		"/Y/userUpload/users.csv",
+		"/Y/userUpload/csvForTest/wrongEmail.csv",
+		"/Y/userUpload/csvForTest/empty.csv",
+		"/Y/userUpload/none.csv",
+		"/Y/userUpload/moreData2.csv",
+		"/Y/userUpload/wrongHeader2.csv",
+		"/Y/userUpload/moreData.csv",
+		"/Y/userUpload/tata.sh",
+		"/Y/userUpload/titi.sh",
+		"/D/userUpload/user_upload.php",
+		"/D/userUpload/README.md",
+		"/C/Users/Olivier/.ssh/id_rsa.pub",
+		"/C/Users/Olivier/.ssh/id_rsa",
+		"/D/userUpload/userUpload.php",
+		"/Y/ChuckNorris/resources/views/facture.blade.php",
+		"/Y/ChuckNorris/resources/views/article.blade.php",
+		"/Y/ChuckNorris/resources/views/base.blade.php",
+		"/Y/ChuckNorris/app/Http/Controllers/WelcomeController.php",
+		"/Y/ChuckNorris/app/Http/Controllers/UserController.php",
+		"/Y/ChuckNorris/routes/web.php",
+		"/Y/ChuckNorris/resources/views/info.blade.php",
+		"/Y/ChuckNorris/.env",
+		"/Y/ChuckNorris/public/index.php",
+		"/Y/ChuckNorris/config/app.php",
+		"/Y/ChuckNorris/resources/views/vue1.blade.php",
+		"/Y/ChuckNorris/composer.json",
+		"/Y/ChuckNorris/resources/veu1.php",
+		"/C/Users/Olivier/PycharmProjects/parserAnnotation/parser/annotation.py",
+		"/D/Import Python 2/parser.py",
+		"/D/Import Python 2/main.py",
+		"/D/Import Python 2/parser/__init__.py",
+		"/C/Program Files/Sublime Text 3/parser.py",
+		"/D/Import Python 2/hello.py",
+		"/C/Users/Olivier/PycharmProjects/myParser/parser/annotation.py",
+		"/C/Users/Olivier/AppData/Roaming/Thunderbird/Profiles/23gmbbd1.default/logins.json",
+		"/C/Users/Olivier/AppData/Roaming/Thunderbird/Profiles/23gmbbd1.default/folderTree.json",
+		"/C/Users/Olivier/AppData/Roaming/Thunderbird/Profiles/23gmbbd1.default/directoryTree.json",
+		"/D/parserAnnotation/source/annotation.py",
+		"/C/Users/Olivier/AppData/Roaming/Thunderbird/Profiles/23gmbbd1.default/session.json",
+		"/C/Users/Olivier/index.php",
+		"/Z/src/Model/newsletter.php",
+		"/Z/src/Modeler/HtmlNode/Text.php",
+		"/Z/composer.json",
+		"/Z/src/Modeler/Exception/TranslationException.php",
+		"/Z/src/Modeler/HtmlNode/AbstractNode.php",
+		"/Z/Translations/fr/BE/Segments/footer.yml",
+		"/Z/src/MyProvider/Translator.php",
+		"/Z/Layout/Segments/footer.xml",
+		"/Z/Translations/en/US/Segments/footer.yml",
+		"/Z/Translations/en/US/Segments/header.yml",
+		"/Z/Translations/en/US/Pages/index.yml",
+		"/Z/src/MyProvider/Locale.php",
+		"/Z/src/Locale.php",
+		"/Z/src/Modeler/Locale.php",
+		"/Z/Modeler/Website/js/common.js.mustache",
+		"/Z/Layout/Pages/index.xml",
+		"/Z/src/Modeler/HtmlNode/LinearLayout.php",
+		"/Z/src/Modeler/HtmlNode/AbstractLayout.php",
+		"/Z/src/Modeler/HtmlNode/RelativeLayout.php",
+		"/Z/src/Modeler/HtmlNode/Segment.php",
+		"/Z/Translations/en/US/Segment/header.yml",
+		"/home/olive/Network Share/vm03/config/modelerJsAttribute.php",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/AbstractNode.php",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/LinearLayout.php",
+		"/home/olive/Network Share/vm03/src/Modeler/Provider/Js.php",
+		"/home/olive/Network Share/vm03/Modeler/Website/js/common.js.mustache",
+		"/home/olive/Network Share/vm03/Layout/Pages/index.xml",
+		"/home/olive/Network Share/vm03/Layout/Segments/footer.xml",
+		"/home/olive/Network Share/vm03/Modeler/Website/css/common.scss",
+		"/home/olive/Network Share/vm03/Layout/Segments/header.xml",
+		"/home/olive/Network Share/vm03/Layout/Pages/community.xml",
+		"/home/olive/Network Share/vm03/Layout/Pages/about.xml",
+		"/home/olive/Network Share/vm03/Layout/Pages/contact.xml",
+		"/home/olive/Network Share/vm03/Layout/Pages/product.xml",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/AbstractLayout.php",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/RelativeLayout.php",
+		"/home/olive/Network Share/vm03/src/Modeler/Provider/Css.php",
+		"/home/olive/Network Share/vm03/config/prod.php",
+		"/home/olive/Network Share/vm03/config/jsAttr.php",
+		"/home/olive/Network Share/vm03/src/Modeler/Provider/Html.php",
+		"/home/olive/Network Share/vm03/cache/jsAttributes.txt",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/Text.php",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/AbstractContainer.php",
+		"/home/olive/Network Share/vm03/src/Controller/Js.php",
+		"/home/olive/Network Share/vm03/app.php",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/Segment.php",
+		"/home/olive/Network Share/vm03/src/Modeler/Exception/HtmlNodeException.php",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/Link.php",
+		"/home/olive/Network Share/vm03/Layout/Pages/sign-up.xml",
+		"/home/olive/Network Share/vm03/src/Controller/ImageSvg.php",
+		"/home/olive/Network Share/vm03/src/Controller/AbstractImage.php",
+		"/home/olive/Network Share/vm03/Files/logo.svg",
+		"/home/olive/Network Share/vm03/src/Controller/ImageJpeg.php",
+		"/home/olive/Network Share/vm03/src/Controller/ImageGif.php",
+		"/home/olive/Network Share/vm03/src/Controller/ImagePng.php",
+		"/tmp/mozilla_olive0/logo-color",
+		"/tmp/mozilla_olive0/logo",
+		"/home/olive/Network Share/vm03/Files/logo2.svg",
+		"/tmp/mozilla_olive0/black-9",
+		"/home/olive/Network Share/vm03/Files/logo (copy).svg",
+		"/home/olive/Network Share/vm03/Modeler/Website/js/common.js",
+		"/home/olive/Network Share/vm03/Layout/Color/greyLight.json",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/Form.php",
+		"/home/olive/Network Share/vm03/src/Modeler/HtmlNode/Image.php",
+		"/home/olive/Network Share/vm03/Layout/Color/brownLight.json",
+		"/home/olive/Network Share/vm03/src/Modeler/Exception/MandatoryAttributeException.php",
+		"/home/olive/devolive/public/index.php",
+		"/home/olive/Network Share/vm03/index.php",
+		"/tmp/fz3temp-1/.htaccess",
+		"/home/olive/Documents/index.html",
+		"/tmp/fz3temp-1/.ovhconfig",
+		"/tmp/fz3temp-1/786DE238381A1FD701071A3090A3CCB9.txt",
+		"/home/olive/Network Share/vm03/devolive-be/src/Modeler/Node/RelativeLayout.php",
+		"/home/olive/Network Share/vm03/devolive-be/Layout/Segments/header.xml",
+		"/home/olive/Network Share/vm03/devolive-be/Layout/Pages/index.xml",
+		"/home/olive/Network Share/vm03/devolive-be/src/Modeler/Node/Text.php",
+		"/home/olive/Network Share/vm03/devolive-be/src/Modeler/Node/AbstractNode.php",
+		"/home/olive/Network Share/vm03/devolive-be/Modeler/Website/css/common.css",
+		"/home/olive/Network Share/vm03/devolive-be/Modeler/Website/js/common.js",
+		"/home/olive/Network Share/vm03/devolive-be/Layout/Segments/footer.xml",
+		"/home/olive/Network Share/vm03/devolive-be/src/Modeler/Node/LinearLayout.php",
+		"/home/olive/Network Share/vm03/devolive-be/Translations/fr/BE/common.yml",
+		"/home/olive/Network Share/vm03/devolive-be/Translations/fr/BE/form-signup.yml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "make",
+	"project": "ChuckNorris.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"box",
+				"lib/uiTerm/include/ui/box.hpp"
+			],
+			[
+				"cin",
+				"lib/uiTerm/include/ui/container.hpp"
+			],
+			[
+				"conthp",
+				"lib/uiTerm/include/ui/component.hpp"
+			],
+			[
+				"term",
+				"lib/uiTerm/include/ui/term.hpp"
+			],
+			[
+				"col",
+				"lib/uiTerm/include/ui/color.hpp"
+			],
+			[
+				"color",
+				"lib/uiTerm/src/ui/color.cpp"
+			],
+			[
+				"colo",
+				"lib/uiTerm/include/ui/color.hpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 380.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

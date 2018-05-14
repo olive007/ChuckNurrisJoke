@@ -1,0 +1,9 @@
+<div class="btn-group text-center">
+	<a class="btn"
+		ng-class="{'btn-primary': $ctrl.data.joke.category.includes(cat), 'btn-default': !$ctrl.data.joke.category.includes(cat)}"
+		ng-click="$ctrl.changeJoke(cat)"
+		ng-repeat="cat in $ctrl.data.categoryList | orderBy">
+
+		<% cat %>
+	</a>
+</div>

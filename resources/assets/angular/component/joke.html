@@ -1,0 +1,22 @@
+<div class="row"><!--
+	--><div class="col-xs-2 vcenter">
+		<div class="row">
+			<div class="col-xs-12 text-center">
+				<a ng-disabled="!enable" ng-click="upVote()"><i class="fa fa-angle-up" style="font-size:5vw"></i></a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 text-center">
+				<p style="font-size:2vw"><% $ctrl.j.rank %></p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 text-center">
+				<a ng-disabled="!enable" ng-click="downVote()"><i class="fa fa-angle-down" style="font-size:5vw"></i></a>
+			</div>
+		</div>
+	</div><!--
+	--><div class="col-xs-10 vcenter">
+		<p><% $ctrl.j.value %></p>
+	</div><!--
+--></div>

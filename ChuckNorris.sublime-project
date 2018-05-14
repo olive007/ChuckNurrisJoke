@@ -1,0 +1,21 @@
+{
+	"name": "ChuckNorris",
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": [
+				".*",
+				"vendor"
+			],
+			"file_exclude_patterns": [
+				"*~",
+				"#*#",
+				"*.sublime-project",
+				"*.sublime-workspace",
+				"composer.lock",
+				"artisan"
+			]
+		}
+	]
+}
